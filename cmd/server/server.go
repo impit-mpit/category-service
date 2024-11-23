@@ -1,8 +1,8 @@
 package main
 
 import (
-	"neuro-most/template-service/config"
-	"neuro-most/template-service/internal/infra"
+	"neuro-most/category-service/config"
+	"neuro-most/category-service/internal/infra"
 )
 
 func main() {
